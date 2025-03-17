@@ -30,3 +30,4 @@ Merge all tables into dashboareds and apply slicer to make dynamic.
 
 <a href= "D:\Power BI SC">Comparision</a>
 
+![Maindashboard](https://github.com/user-attachments/assets/973fe8cc-fba2-41a5-a249-529c3ff1362d)
