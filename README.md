@@ -13,3 +13,12 @@ Percentage of total orders delivered?
 Highest selling category?
 What are the total net and total sells by subcategory?
 Comapare total profit and total discount by City? 
+
+#Dashbored Interraction
+<a href="https://github.com/Pratiksha280702/Data-Analysis-Dashboared/blob/main/USS_PROJECT.pbix">View Dashboared</a>
+
+# Process
+Verify data any misssing values and anomalioes , and sort out the same.
+Made sure the data is clean and consistent with respect to data type,data format and values used.
+Created some measure and tables according to question asked.
+Merge all tables into dashboareds and apply slicer to make dynamic.
