@@ -22,3 +22,8 @@ Verify data any misssing values and anomalioes , and sort out the same.
 Made sure the data is clean and consistent with respect to data type,data format and values used.
 Created some measure and tables according to question asked.
 Merge all tables into dashboareds and apply slicer to make dynamic.
+
+#Dashboared Screenshot
+<a href="https://github.com/Pratiksha280702/Data-Analysis-Dashboared/blob/main/Maindashboard.png"></a>
+<a href= "https://github.com/Pratiksha280702/Data-Analysis-Dashboared/blob/main/Product%20Details_uss%202.png"></a>
+<a href= "https://github.com/Pratiksha280702/Data-Analysis-Dashboared/blob/main/Comparioson_uss3.png"></a>
