@@ -24,10 +24,7 @@ Created some measure and tables according to question asked.
 Merge all tables into dashboareds and apply slicer to make dynamic.
 
 #Dashboared Screenshot
-<a href="https://github.com/Pratiksha280702/Data-Analysis-Dashboared/blob/main/Maindashboard.png">MainDashboared</a>
-<a href= "https://github.com/Pratiksha280702/Data-Analysis-Dashboared/blob/main/Product%20Details_uss%202.png">ProductDetails</a>
-<a href= "https://github.com/Pratiksha280702/Data-Analysis-Dashboared/blob/main/Comparioson_uss3.png">Comparision</a>
-
-<a href= "D:\Power BI SC">Comparision</a>
 
 ![Maindashboard](https://github.com/user-attachments/assets/973fe8cc-fba2-41a5-a249-529c3ff1362d)
+![Product Details_uss 2](https://github.com/user-attachments/assets/c1ad0bda-76ac-4e5e-8a02-7f91394c2ec0)
+![Comparioson_uss3](https://github.com/user-attachments/assets/b45770ad-8966-4a4c-885c-08d389646286)
