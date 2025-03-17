@@ -27,3 +27,6 @@ Merge all tables into dashboareds and apply slicer to make dynamic.
 <a href="https://github.com/Pratiksha280702/Data-Analysis-Dashboared/blob/main/Maindashboard.png">MainDashboared</a>
 <a href= "https://github.com/Pratiksha280702/Data-Analysis-Dashboared/blob/main/Product%20Details_uss%202.png">ProductDetails</a>
 <a href= "https://github.com/Pratiksha280702/Data-Analysis-Dashboared/blob/main/Comparioson_uss3.png">Comparision</a>
+
+<a href= "D:\Power BI SC">Comparision</a>
+
